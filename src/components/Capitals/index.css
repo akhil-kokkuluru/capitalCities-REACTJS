@@ -1,0 +1,45 @@
+.totalBg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #93c5fd;
+}
+.contentBg {
+  background-color: #ffffff;
+  width: 60%;
+  border-radius: 16px;
+  padding-top: 24px;
+  padding-left: 18px;
+  padding-bottom: 8px;
+  padding-right: 18px;
+  max-width: 550px;
+  font-family: Roboto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 30px;
+  padding-left: 40px;
+}
+.para {
+  font-size: 32px;
+  font-weight: bold;
+  color: #1e293b;
+}
+.selectContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.optionEL4 {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: bold;
+  width: 150px;
+  height: 35px;
+  margin-right: 5px;
+}
+.paras {
+  text-align: left;
+}
